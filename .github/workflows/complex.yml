@@ -9,7 +9,7 @@ jobs:
   - run: date
  windows:
   runs-on: windows-latest
-   steps:
+  steps:
    - run: date
  macos:
   runs-on: macos-latest
